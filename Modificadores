@@ -1,0 +1,75 @@
+// Field descriptor #35 I
+		  public static final int PUBLIC = 1;
+		  
+		  // Field descriptor #35 I
+		  public static final int PRIVATE = 2;
+		  
+		  // Field descriptor #35 I
+		  public static final int PROTECTED = 4;
+		  
+		  // Field descriptor #35 I
+		  public static final int STATIC = 8;
+		  
+		  // Field descriptor #35 I
+		  public static final int FINAL = 16;
+		  
+		  // Field descriptor #35 I
+		  public static final int SYNCHRONIZED = 32;
+		  
+		  // Field descriptor #35 I
+		  public static final int VOLATILE = 64;
+		  
+		  // Field descriptor #35 I
+		  public static final int TRANSIENT = 128;
+		  
+		  // Field descriptor #35 I
+		  public static final int NATIVE = 256;
+		  
+		  // Field descriptor #35 I
+		  public static final int INTERFACE = 512;
+		  
+		  // Field descriptor #35 I
+		  public static final int ABSTRACT = 1024;
+		  
+		  // Field descriptor #35 I
+		  public static final int STRICT = 2048;
+		  
+		  // Field descriptor #35 I
+		  static final int BRIDGE = 64;
+		  
+		  // Field descriptor #35 I
+		  static final int VARARGS = 128;
+		  
+		  // Field descriptor #35 I
+		  static final int SYNTHETIC = 4096;
+		  
+		  // Field descriptor #35 I
+		  static final int ANNOTATION = 8192;
+		  
+		  // Field descriptor #35 I
+		  static final int ENUM = 16384;
+		  
+		  // Field descriptor #35 I
+		  static final int MANDATED = 32768;
+		  
+		  // Field descriptor #35 I
+		  private static final int CLASS_MODIFIERS = 3103;
+		  
+		  // Field descriptor #35 I
+		  private static final int INTERFACE_MODIFIERS = 3087;
+		  
+		  // Field descriptor #35 I
+		  private static final int CONSTRUCTOR_MODIFIERS = 7;
+		  
+		  // Field descriptor #35 I
+		  private static final int METHOD_MODIFIERS = 3391;
+		  
+		  // Field descriptor #35 I
+		  private static final int FIELD_MODIFIERS = 223;
+		  
+		  // Field descriptor #35 I
+		  private static final int PARAMETER_MODIFIERS = 16;
+		  
+		  // Field descriptor #35 I
+		  static final int ACCESS_MODIFIERS = 7;
+		  
